@@ -1,5 +1,7 @@
 package com.teszt.demo.szemely;
 
+import com.teszt.demo.elerhetoseg.Elerhetoseg;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
