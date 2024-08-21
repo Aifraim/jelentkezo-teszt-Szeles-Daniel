@@ -1,5 +1,6 @@
 package com.teszt.demo.szemely;
 
+import com.teszt.demo.cim.Cim;
 import com.teszt.demo.elerhetoseg.Elerhetoseg;
 
 import jakarta.persistence.CascadeType;
